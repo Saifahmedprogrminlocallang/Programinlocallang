@@ -53,5 +53,5 @@
 	  ht1.put(47,"aazmao");		//try
 	  ht1.put(48,"kuchnahi");	//void
 	  ht1.put(49,"volatile");	//
-	  ht1.put(50,"jabtakyehsahihaiohyehkaro");	//while
+	  ht1.put(50,"jabtakyehsahihaiyehkaro");	//while
 	  
