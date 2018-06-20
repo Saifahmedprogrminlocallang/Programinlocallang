@@ -34,7 +34,7 @@
 	  ht1.put(30,"cc++jaisacomputerkanative");		//native
 
 	  ht1.put(31,"naya");		//new
-	  ht1.put(32,"eksaathkaamkarnewaleprogramkicheezjocomputerkeliyebanyigayihain");		//package
+	  ht1.put(32,"eksaathkaamkarnewaleprogramkicheezjocomputerkeliyebanayigayihain");		//package
 	  ht1.put(33,"zaativariable");		//private
 	  ht1.put(34,"bachakerakhagayavariable");	//protected
 	  ht1.put(35,"sabkeliye");		//public
