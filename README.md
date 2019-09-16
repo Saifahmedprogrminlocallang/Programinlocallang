@@ -1,5 +1,5 @@
 # Programinlocallang
-A Java project to program in local language.
+A Java project to program in local language. This project contains the source code.
 
 Put all the text files and Inputfile.java in D:\Saif\LocallangProgram.
 
