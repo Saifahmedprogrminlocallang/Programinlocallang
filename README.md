@@ -17,6 +17,6 @@ The Mapper.java file contains 3 input sections and 1 processing and 1 output sec
 5. Replace the local language keywords by the computer language keywords. 
 Replace the local language api wih the api. 
 
-6. Write Outputfile.java in input folder.
+6. Write Outputbinaryfile.dat in input folder.
 
 Input folder - D:\Saif\LocallangProgram.
