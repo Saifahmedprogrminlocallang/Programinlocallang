@@ -5,7 +5,7 @@ Put all the text files and Inputfile.java in D:\Saif\LocallangProgram.
 
 Run the jar file with the cmd - java -jar Programinlocallang.jar 
 
-The Mapper.java file contains 3 input sections and 1 processing and 1 output section  -
+The BhashaVarthaMapper.java file contains 3 input sections and 1 processing and 1 output section  -
 
 1. Read the Inputfile.java from input folder.
 
