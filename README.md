@@ -1,5 +1,7 @@
 pickala pickala ping ping - pickala pickala ping -
 
+have to ping it -
+
 art to programming - made it with all my heart and effort. ..-.. 
 
 may contain some mistakes, i have written the code and am uploading the source code images.
