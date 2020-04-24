@@ -1,6 +1,6 @@
 pickala pickala ping ping - pickala pickala ping -
 
-have to ping it -
+have to ping it - ping pong it -
 
 art to programming - made it with all my heart and effort. ..-.. 
 
