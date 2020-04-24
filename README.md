@@ -1,6 +1,6 @@
 pickala pickala ping ping - pickala pickala ping -
 
-made it with my heart and soul. ..-.. 
+art to programming - made it with all my heart and effort. ..-.. 
 
 may contain some mistakes, i have written the code and am uploading the source code images.
 
