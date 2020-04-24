@@ -1,3 +1,5 @@
+pickala pickala ping ping - pickala pickala ping -
+
 # Programinlocallang
 A Java project to program in local language. This project contains the source code.
 
