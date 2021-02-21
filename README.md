@@ -1,4 +1,5 @@
-pickala pickala ping ping - pickala pickala ping -
+pickala pickala ping ping - pickala pickala ping ping -
+pickala pickala ping -
 
 have to ping it - pong it - ping pong it -
 
